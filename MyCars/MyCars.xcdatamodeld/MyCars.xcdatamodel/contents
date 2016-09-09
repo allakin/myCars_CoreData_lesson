@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15G1004" minimumToolsVersion="Automatic">
-    <entity name="Car" syncable="YES">
+    <entity name="Car" representedClassName=".Car" syncable="YES">
         <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" syncable="YES"/>
         <attribute name="lastStarted" optional="YES" attributeType="Date" syncable="YES"/>
         <attribute name="mark" optional="YES" attributeType="String" syncable="YES"/>
